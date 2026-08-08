@@ -1,0 +1,23 @@
+# Variables de entorno / API keys
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs del sistema
+carbot_system.log
+*.log
+
+# Sistema operativo / editor
+.DS_Store
+.vscode/
+.idea/

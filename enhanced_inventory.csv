@@ -1,0 +1,106 @@
+year,make,model,body_styles,color,mileage,price,fuel_type,engine,transmission,safety_rating,trunk_space_liters,features,condition,location,vin,status
+2020,Toyota,Corolla,Sedan,Verde,18024,32049,Diesel,1.2L Turbo,Manual,5,296,"Asientos de cuero, Control de crucero adaptativo, Techo solar",Bueno,Bilbao,VIN001000,Available
+2020,Toyota,Corolla,Sedan,Gris,13031,62925,Eléctrico,Motor eléctrico,Automático,5,509,"Navegación GPS, Sensores de aparcamiento, Asistente de carril, Control de crucero adaptativo, Asientos calefactables",Muy bueno,Barcelona,VIN001001,Available
+2022,Toyota,RAV4,SUV,Rojo,6078,40898,Gasolina,1.5L TDI,Automático,4,515,"Detección de punto ciego, Asientos de cuero, Android Auto",Muy bueno,Bilbao,VIN001002,Available
+2022,Toyota,RAV4,SUV,Gris,12601,62174,Gasolina,1.1L TSI,Automático,4,399,"Detección de punto ciego, Android Auto, Apple CarPlay",Bueno,Valencia,VIN001003,Available
+2022,Toyota,Camry,Sedan,Blanco,13730,59920,Híbrido,2.1L Turbo,Manual,5,363,"Detección de punto ciego, Android Auto, Portón eléctrico, Faros LED, Asistente de carril, Asientos calefactables",Excelente,Valencia,VIN001004,Available
+2020,Toyota,Camry,Sedan,Negro,53857,18103,Híbrido,1.6L Turbo,Manual,5,388,"Detección de punto ciego, Portón eléctrico, Asientos de cuero, Bluetooth, Asientos calefactables, Techo solar",Bueno,Bilbao,VIN001005,Available
+2025,Toyota,Yaris,Hatchback,Gris,28077,54242,Eléctrico,Motor eléctrico,Automático,5,392,"Cargador inalámbrico, Asientos calefactables, Cámara trasera, Detección de punto ciego",Excelente,Madrid,VIN001006,Available
+2021,Toyota,Yaris,Hatchback,Verde,10484,60596,Eléctrico,Motor eléctrico,Automático,4,477,"Portón eléctrico, Android Auto, Asientos calefactables, Llantas de aleación, Navegación GPS, Faros LED",Bueno,Madrid,VIN001007,Available
+2025,Toyota,Yaris,Hatchback,Gris,49209,33486,Híbrido,1.2L,Manual,5,281,"Cargador inalámbrico, Sensores de aparcamiento, Android Auto, Cámara trasera, Faros LED",Muy bueno,Bilbao,VIN001008,Available
+2021,Volkswagen,Golf,Hatchback,Blanco,49971,26587,Gasolina,1.9L,Manual,4,465,"Apple CarPlay, Cámara trasera, Techo solar, Climatizador bizona, Asientos calefactables",Excelente,Sevilla,VIN001009,Available
+2020,Volkswagen,Golf,Hatchback,Gris,50189,24241,Diesel,2.0L TSI,Automático,5,388,"Climatizador bizona, Detección de punto ciego, Faros LED, Portón eléctrico",Muy bueno,Sevilla,VIN001010,Available
+2020,Volkswagen,Tiguan,SUV,Negro,14725,20196,Híbrido,1.0L TSI,Manual,4,316,"Apple CarPlay, Asientos de cuero, Portón eléctrico",Excelente,Valencia,VIN001011,Available
+2020,Volkswagen,Tiguan,SUV,Gris,15597,34250,Eléctrico,Motor eléctrico,Automático,5,556,"Asientos calefactables, Apple CarPlay, Detección de punto ciego, Cargador inalámbrico",Muy bueno,Barcelona,VIN001012,Available
+2020,Volkswagen,Tiguan,SUV,Rojo,43187,44249,Híbrido,1.6L,Manual,4,311,"Faros LED, Techo solar, Asientos calefactables, Portón eléctrico, Llantas de aleación, Android Auto",Muy bueno,Barcelona,VIN001013,Available
+2021,Volkswagen,Polo,Hatchback,Blanco,30318,32371,Gasolina,1.7L Turbo,Manual,4,327,"Sensores de aparcamiento, Llantas de aleación, Apple CarPlay, Portón eléctrico",Excelente,Sevilla,VIN001014,Available
+2020,Volkswagen,Polo,Hatchback,Negro,24836,16141,Eléctrico,Motor eléctrico,Automático,5,512,"Llantas de aleación, Asientos calefactables, Asientos de cuero, Techo solar, Bluetooth",Excelente,Madrid,VIN001015,Available
+2024,Volkswagen,Polo,Hatchback,Verde,35533,19994,Híbrido,1.1L,Manual,4,540,"Sensores de aparcamiento, Asientos de cuero, Climatizador bizona",Excelente,Barcelona,VIN001016,Available
+2020,Volkswagen,Passat,Sedan,Gris,16135,53940,Gasolina,1.9L,Automático,5,384,"Apple CarPlay, Android Auto, Control de crucero adaptativo, Asientos de cuero, Faros LED",Bueno,Valencia,VIN001017,Available
+2023,Volkswagen,Passat,Sedan,Blanco,49274,20754,Gasolina,1.7L Turbo,Manual,5,539,"Bluetooth, Asistente de carril, Portón eléctrico, Cámara trasera, Techo solar",Muy bueno,Valencia,VIN001018,Available
+2021,Volkswagen,Passat,Sedan,Azul,54640,51600,Híbrido,1.9L Turbo,Automático,4,348,"Techo solar, Cargador inalámbrico, Asistente de carril, Android Auto, Asientos de cuero",Muy bueno,Valencia,VIN001019,Available
+2025,Seat,Leon,Hatchback,Blanco,13342,61055,Híbrido,1.8L TDI,Manual,4,604,"Android Auto, Cámara trasera, Navegación GPS, Sensores de aparcamiento, Detección de punto ciego, Asientos de cuero",Bueno,Valencia,VIN001020,Available
+2021,Seat,Leon,Hatchback,Verde,28956,52154,Eléctrico,Motor eléctrico,Automático,4,337,"Bluetooth, Cámara trasera, Llantas de aleación",Muy bueno,Bilbao,VIN001021,Available
+2023,Seat,Ateca,SUV,Negro,2741,36202,Híbrido,2.3L Turbo,Automático,5,629,"Techo solar, Asistente de carril, Detección de punto ciego, Android Auto",Muy bueno,Bilbao,VIN001022,Available
+2025,Seat,Ateca,SUV,Negro,15514,26649,Diesel,2.3L Turbo,Manual,5,490,"Android Auto, Sensores de aparcamiento, Detección de punto ciego, Asistente de carril",Excelente,Sevilla,VIN001023,Available
+2023,Seat,Ibiza,Hatchback,Negro,13079,46166,Híbrido,1.5L TSI,Manual,4,617,"Detección de punto ciego, Faros LED, Bluetooth, Llantas de aleación",Excelente,Valencia,VIN001024,Available
+2022,Seat,Ibiza,Hatchback,Verde,33384,42193,Híbrido,2.4L Turbo,Automático,5,577,"Cámara trasera, Techo solar, Climatizador bizona, Control de crucero adaptativo, Sensores de aparcamiento",Bueno,Valencia,VIN001025,Available
+2024,Seat,Arona,SUV,Gris,7578,41244,Diesel,1.4L,Manual,5,466,"Asientos de cuero, Faros LED, Climatizador bizona, Sensores de aparcamiento, Asientos calefactables, Cámara trasera",Bueno,Valencia,VIN001026,Available
+2024,Seat,Arona,SUV,Blanco,43705,42764,Híbrido,1.6L TDI,Manual,5,495,"Sensores de aparcamiento, Climatizador bizona, Control de crucero adaptativo, Android Auto, Navegación GPS, Bluetooth",Muy bueno,Barcelona,VIN001027,Available
+2023,Seat,Arona,SUV,Gris,39758,58906,Híbrido,1.7L,Manual,5,366,"Climatizador bizona, Faros LED, Cámara trasera",Excelente,Valencia,VIN001028,Available
+2021,Ford,Focus,Hatchback,Negro,1600,19028,Diesel,2.5L Turbo,Automático,5,602,"Detección de punto ciego, Asientos calefactables, Control de crucero adaptativo, Techo solar",Excelente,Madrid,VIN001029,Available
+2020,Ford,Focus,Hatchback,Azul,14341,27526,Eléctrico,Motor eléctrico,Automático,4,565,"Techo solar, Portón eléctrico, Asientos de cuero, Detección de punto ciego",Muy bueno,Bilbao,VIN001030,Available
+2023,Ford,Kuga,SUV,Gris,53412,63138,Eléctrico,Motor eléctrico,Automático,5,361,"Portón eléctrico, Android Auto, Detección de punto ciego, Techo solar, Faros LED, Bluetooth",Bueno,Sevilla,VIN001031,Available
+2025,Ford,Kuga,SUV,Negro,17996,44827,Gasolina,2.1L TSI,Automático,5,443,"Bluetooth, Cargador inalámbrico, Techo solar",Muy bueno,Barcelona,VIN001032,Available
+2025,Ford,Kuga,SUV,Negro,4209,43188,Eléctrico,Motor eléctrico,Automático,5,557,"Llantas de aleación, Cámara trasera, Techo solar, Cargador inalámbrico, Control de crucero adaptativo, Detección de punto ciego",Bueno,Madrid,VIN001033,Available
+2023,Ford,Fiesta,Hatchback,Rojo,23052,35569,Eléctrico,Motor eléctrico,Automático,5,555,"Asientos calefactables, Apple CarPlay, Bluetooth, Control de crucero adaptativo",Muy bueno,Madrid,VIN001034,Available
+2023,Ford,Fiesta,Hatchback,Blanco,43835,60508,Eléctrico,Motor eléctrico,Automático,5,519,"Navegación GPS, Detección de punto ciego, Climatizador bizona, Portón eléctrico",Bueno,Madrid,VIN001035,Available
+2020,Ford,Fiesta,Hatchback,Verde,28089,24893,Eléctrico,Motor eléctrico,Automático,5,305,"Detección de punto ciego, Faros LED, Techo solar, Apple CarPlay, Sensores de aparcamiento",Muy bueno,Sevilla,VIN001036,Available
+2023,Ford,Puma,SUV,Blanco,54716,21367,Eléctrico,Motor eléctrico,Automático,4,556,"Asistente de carril, Apple CarPlay, Faros LED",Excelente,Madrid,VIN001037,Available
+2020,Ford,Puma,SUV,Negro,13065,17335,Diesel,1.4L,Manual,5,518,"Asistente de carril, Sensores de aparcamiento, Climatizador bizona, Portón eléctrico, Cargador inalámbrico",Bueno,Madrid,VIN001038,Available
+2021,Ford,Puma,SUV,Blanco,7084,53924,Gasolina,2.4L,Automático,5,318,"Techo solar, Climatizador bizona, Llantas de aleación, Faros LED",Bueno,Madrid,VIN001039,Available
+2022,BMW,Serie 3,Sedan,Gris,28074,74353,Híbrido,1.1L TDI,Manual,5,530,"Llantas de aleación, Asistente de carril, Faros LED",Muy bueno,Barcelona,VIN001040,Available
+2023,BMW,Serie 3,Sedan,Negro,48090,65193,Híbrido,1.9L,Automático,5,583,"Faros LED, Apple CarPlay, Llantas de aleación, Cámara trasera, Bluetooth",Muy bueno,Barcelona,VIN001041,Available
+2024,BMW,X1,SUV,Gris,43790,55837,Híbrido,1.0L TDI,Manual,5,388,"Android Auto, Faros LED, Bluetooth, Climatizador bizona, Asistente de carril",Muy bueno,Bilbao,VIN001042,Available
+2020,BMW,X1,SUV,Gris,12521,36610,Diesel,2.1L,Manual,5,610,"Portón eléctrico, Navegación GPS, Cámara trasera, Bluetooth, Techo solar, Control de crucero adaptativo",Bueno,Barcelona,VIN001043,Available
+2022,BMW,X1,SUV,Verde,38112,55184,Eléctrico,Motor eléctrico,Automático,5,497,"Asistente de carril, Portón eléctrico, Bluetooth, Asientos calefactables, Llantas de aleación",Excelente,Madrid,VIN001044,Available
+2022,BMW,Serie 1,Hatchback,Rojo,48685,66118,Diesel,1.3L,Automático,5,331,"Climatizador bizona, Apple CarPlay, Sensores de aparcamiento, Asientos de cuero",Muy bueno,Madrid,VIN001045,Available
+2025,BMW,Serie 1,Hatchback,Gris,8295,48977,Gasolina,2.5L TDI,Manual,5,332,"Climatizador bizona, Asientos calefactables, Apple CarPlay",Muy bueno,Valencia,VIN001046,Available
+2020,BMW,X3,SUV,Blanco,56473,62308,Gasolina,2.2L,Automático,4,575,"Bluetooth, Cargador inalámbrico, Detección de punto ciego",Bueno,Valencia,VIN001047,Available
+2020,BMW,X3,SUV,Negro,7762,67573,Eléctrico,Motor eléctrico,Automático,5,547,"Portón eléctrico, Cargador inalámbrico, Bluetooth, Llantas de aleación, Climatizador bizona, Control de crucero adaptativo",Muy bueno,Bilbao,VIN001048,Available
+2024,Audi,A3,Hatchback,Verde,6503,44617,Diesel,1.4L Turbo,Manual,5,368,"Sensores de aparcamiento, Navegación GPS, Control de crucero adaptativo",Muy bueno,Bilbao,VIN001049,Available
+2023,Audi,A3,Hatchback,Blanco,2139,46170,Híbrido,2.1L,Manual,5,415,"Llantas de aleación, Techo solar, Android Auto, Asientos calefactables",Bueno,Barcelona,VIN001050,Available
+2021,Audi,Q3,SUV,Rojo,3908,41873,Híbrido,1.9L TDI,Automático,4,519,"Detección de punto ciego, Android Auto, Asientos calefactables, Portón eléctrico, Apple CarPlay",Muy bueno,Madrid,VIN001051,Available
+2024,Audi,Q3,SUV,Rojo,58289,59313,Híbrido,1.9L Turbo,Manual,5,625,"Android Auto, Cámara trasera, Detección de punto ciego",Excelente,Sevilla,VIN001052,Available
+2024,Audi,Q3,SUV,Verde,28981,49229,Diesel,2.5L,Automático,4,520,"Llantas de aleación, Faros LED, Sensores de aparcamiento, Asientos calefactables, Cámara trasera",Excelente,Valencia,VIN001053,Available
+2025,Audi,A4,Sedan,Azul,18888,74423,Eléctrico,Motor eléctrico,Automático,4,512,"Faros LED, Android Auto, Sensores de aparcamiento",Excelente,Sevilla,VIN001054,Available
+2024,Audi,A4,Sedan,Rojo,43100,66559,Eléctrico,Motor eléctrico,Automático,5,307,"Cargador inalámbrico, Asistente de carril, Climatizador bizona, Detección de punto ciego",Muy bueno,Sevilla,VIN001055,Available
+2020,Audi,A4,Sedan,Negro,17501,66993,Diesel,2.4L,Automático,4,294,"Sensores de aparcamiento, Climatizador bizona, Android Auto, Navegación GPS",Bueno,Sevilla,VIN001056,Available
+2021,Audi,Q5,SUV,Rojo,30241,38698,Diesel,1.7L TDI,Automático,5,527,"Apple CarPlay, Portón eléctrico, Android Auto, Asientos de cuero, Control de crucero adaptativo, Techo solar",Bueno,Bilbao,VIN001057,Available
+2025,Audi,Q5,SUV,Negro,56624,35575,Híbrido,2.2L,Automático,5,281,"Climatizador bizona, Asientos calefactables, Llantas de aleación, Asientos de cuero, Apple CarPlay",Bueno,Sevilla,VIN001058,Available
+2022,Renault,Clio,Hatchback,Gris,49995,51614,Eléctrico,Motor eléctrico,Automático,5,444,"Apple CarPlay, Detección de punto ciego, Techo solar, Llantas de aleación",Muy bueno,Madrid,VIN001059,Available
+2022,Renault,Clio,Hatchback,Verde,30996,62217,Eléctrico,Motor eléctrico,Automático,5,619,"Asientos calefactables, Cámara trasera, Asientos de cuero, Android Auto",Bueno,Valencia,VIN001060,Available
+2020,Renault,Clio,Hatchback,Azul,6534,50468,Eléctrico,Motor eléctrico,Automático,4,649,"Llantas de aleación, Bluetooth, Cámara trasera, Apple CarPlay",Muy bueno,Valencia,VIN001061,Available
+2025,Renault,Captur,SUV,Rojo,55821,37532,Eléctrico,Motor eléctrico,Automático,5,600,"Cámara trasera, Asientos de cuero, Techo solar, Faros LED, Llantas de aleación, Bluetooth",Excelente,Madrid,VIN001062,Available
+2023,Renault,Captur,SUV,Rojo,49831,57533,Gasolina,1.7L TDI,Manual,4,446,"Climatizador bizona, Asistente de carril, Sensores de aparcamiento",Muy bueno,Barcelona,VIN001063,Available
+2021,Renault,Captur,SUV,Gris,27004,53088,Diesel,1.3L Turbo,Automático,5,534,"Apple CarPlay, Portón eléctrico, Faros LED, Bluetooth",Muy bueno,Valencia,VIN001064,Available
+2023,Renault,Megane,Hatchback,Blanco,44407,51821,Diesel,1.1L TDI,Automático,5,633,"Portón eléctrico, Climatizador bizona, Techo solar, Control de crucero adaptativo, Apple CarPlay",Excelente,Barcelona,VIN001065,Available
+2023,Renault,Megane,Hatchback,Gris,23524,53670,Híbrido,2.5L TDI,Manual,5,420,"Cámara trasera, Asientos calefactables, Llantas de aleación",Muy bueno,Barcelona,VIN001066,Available
+2021,Renault,Kadjar,SUV,Verde,12460,56690,Híbrido,2.0L TSI,Manual,4,438,"Cámara trasera, Asistente de carril, Asientos calefactables, Asientos de cuero, Cargador inalámbrico, Bluetooth",Muy bueno,Sevilla,VIN001067,Available
+2021,Renault,Kadjar,SUV,Negro,8661,51350,Híbrido,1.8L TDI,Manual,5,526,"Faros LED, Techo solar, Apple CarPlay, Cámara trasera, Asientos de cuero",Excelente,Sevilla,VIN001068,Available
+2024,Renault,Kadjar,SUV,Blanco,5918,41858,Gasolina,1.4L Turbo,Automático,5,624,"Detección de punto ciego, Asistente de carril, Cámara trasera, Faros LED, Techo solar",Muy bueno,Madrid,VIN001069,Available
+2024,Peugeot,208,Hatchback,Negro,42444,20142,Eléctrico,Motor eléctrico,Automático,5,612,"Techo solar, Bluetooth, Navegación GPS, Portón eléctrico, Asientos calefactables, Apple CarPlay",Excelente,Madrid,VIN001070,Available
+2021,Peugeot,208,Hatchback,Gris,8890,41470,Eléctrico,Motor eléctrico,Automático,5,623,"Bluetooth, Llantas de aleación, Faros LED, Cámara trasera, Apple CarPlay, Climatizador bizona",Muy bueno,Valencia,VIN001071,Available
+2020,Peugeot,208,Hatchback,Verde,24283,30238,Eléctrico,Motor eléctrico,Automático,5,400,"Techo solar, Asistente de carril, Android Auto, Faros LED, Sensores de aparcamiento",Excelente,Sevilla,VIN001072,Available
+2021,Peugeot,3008,SUV,Rojo,55576,45800,Gasolina,2.0L Turbo,Manual,5,404,"Control de crucero adaptativo, Asientos de cuero, Llantas de aleación, Detección de punto ciego",Bueno,Barcelona,VIN001073,Available
+2024,Peugeot,3008,SUV,Negro,53284,31269,Híbrido,2.2L Turbo,Automático,5,346,"Sensores de aparcamiento, Techo solar, Faros LED, Llantas de aleación, Navegación GPS",Excelente,Madrid,VIN001074,Available
+2022,Peugeot,3008,SUV,Negro,38591,37218,Gasolina,1.3L Turbo,Manual,5,549,"Asientos de cuero, Asientos calefactables, Apple CarPlay",Muy bueno,Bilbao,VIN001075,Available
+2023,Peugeot,2008,SUV,Gris,14519,56311,Gasolina,2.1L TDI,Automático,4,311,"Detección de punto ciego, Llantas de aleación, Faros LED, Cámara trasera, Apple CarPlay, Asistente de carril",Muy bueno,Madrid,VIN001076,Available
+2020,Peugeot,2008,SUV,Blanco,39865,25721,Gasolina,1.2L TDI,Automático,5,512,"Techo solar, Cargador inalámbrico, Llantas de aleación, Faros LED, Portón eléctrico, Android Auto",Bueno,Barcelona,VIN001077,Available
+2023,Peugeot,308,Hatchback,Negro,27119,38212,Eléctrico,Motor eléctrico,Automático,5,492,"Faros LED, Llantas de aleación, Sensores de aparcamiento",Bueno,Valencia,VIN001078,Available
+2022,Peugeot,308,Hatchback,Negro,45011,47081,Gasolina,1.1L Turbo,Manual,5,329,"Bluetooth, Cámara trasera, Climatizador bizona, Android Auto, Llantas de aleación",Muy bueno,Madrid,VIN001079,Available
+2023,Peugeot,308,Hatchback,Blanco,57252,59603,Eléctrico,Motor eléctrico,Automático,4,427,"Asistente de carril, Techo solar, Climatizador bizona, Android Auto, Asientos calefactables",Excelente,Sevilla,VIN001080,Available
+2020,Hyundai,Tucson,SUV,Blanco,55402,52455,Híbrido,1.2L TDI,Manual,5,567,"Android Auto, Navegación GPS, Asientos de cuero",Muy bueno,Valencia,VIN001081,Available
+2022,Hyundai,Tucson,SUV,Blanco,400,27888,Diesel,1.8L,Manual,5,604,"Asientos de cuero, Control de crucero adaptativo, Asientos calefactables",Muy bueno,Sevilla,VIN001082,Available
+2021,Hyundai,i30,Hatchback,Blanco,20423,63290,Híbrido,2.2L Turbo,Manual,5,360,"Asientos de cuero, Android Auto, Apple CarPlay",Bueno,Sevilla,VIN001083,Available
+2023,Hyundai,i30,Hatchback,Gris,28969,43143,Híbrido,1.3L Turbo,Automático,5,336,"Asientos calefactables, Climatizador bizona, Navegación GPS, Techo solar, Control de crucero adaptativo",Bueno,Madrid,VIN001084,Available
+2020,Hyundai,i30,Hatchback,Negro,19753,29843,Diesel,2.1L TDI,Automático,4,283,"Llantas de aleación, Sensores de aparcamiento, Asientos de cuero, Control de crucero adaptativo, Android Auto, Asistente de carril",Excelente,Bilbao,VIN001085,Available
+2020,Hyundai,Kona,SUV,Azul,56476,64630,Gasolina,1.7L,Manual,5,574,"Detección de punto ciego, Llantas de aleación, Bluetooth, Cámara trasera, Control de crucero adaptativo, Navegación GPS",Muy bueno,Barcelona,VIN001086,Available
+2024,Hyundai,Kona,SUV,Azul,54527,61194,Híbrido,1.1L Turbo,Manual,5,581,"Cargador inalámbrico, Asientos de cuero, Control de crucero adaptativo, Llantas de aleación, Bluetooth, Asistente de carril",Muy bueno,Barcelona,VIN001087,Available
+2022,Hyundai,Kona,SUV,Negro,5005,49455,Gasolina,1.8L TSI,Automático,5,610,"Apple CarPlay, Techo solar, Asientos de cuero, Bluetooth",Excelente,Barcelona,VIN001088,Available
+2025,Hyundai,i20,Hatchback,Rojo,11609,57153,Eléctrico,Motor eléctrico,Automático,5,568,"Faros LED, Cargador inalámbrico, Asientos de cuero, Apple CarPlay, Cámara trasera, Llantas de aleación",Muy bueno,Valencia,VIN001089,Available
+2022,Hyundai,i20,Hatchback,Gris,3681,39064,Gasolina,1.5L,Manual,4,468,"Asientos de cuero, Cargador inalámbrico, Climatizador bizona, Portón eléctrico, Android Auto",Muy bueno,Sevilla,VIN001090,Available
+2023,Kia,Sportage,SUV,Gris,42718,28336,Híbrido,1.9L TSI,Manual,5,332,"Asientos de cuero, Sensores de aparcamiento, Navegación GPS, Techo solar, Asistente de carril",Muy bueno,Sevilla,VIN001091,Available
+2024,Kia,Sportage,SUV,Gris,39964,26403,Híbrido,1.6L TDI,Automático,5,453,"Faros LED, Asientos de cuero, Sensores de aparcamiento",Excelente,Bilbao,VIN001092,Available
+2022,Kia,Ceed,Hatchback,Blanco,47430,59028,Diesel,1.5L TSI,Automático,5,615,"Bluetooth, Asientos de cuero, Cargador inalámbrico, Android Auto, Control de crucero adaptativo, Faros LED",Muy bueno,Barcelona,VIN001093,Available
+2025,Kia,Ceed,Hatchback,Verde,54326,64416,Gasolina,2.0L,Automático,4,465,"Sensores de aparcamiento, Control de crucero adaptativo, Cargador inalámbrico, Detección de punto ciego, Apple CarPlay",Excelente,Barcelona,VIN001094,Available
+2021,Kia,Ceed,Hatchback,Negro,5057,35385,Gasolina,1.8L Turbo,Automático,5,585,"Bluetooth, Sensores de aparcamiento, Asientos de cuero, Llantas de aleación, Asistente de carril, Climatizador bizona",Excelente,Sevilla,VIN001095,Available
+2023,Kia,Niro,SUV,Blanco,44326,63158,Diesel,2.5L TDI,Automático,5,553,"Climatizador bizona, Asientos calefactables, Portón eléctrico, Llantas de aleación",Excelente,Valencia,VIN001096,Available
+2025,Kia,Niro,SUV,Gris,28874,46256,Híbrido,2.2L,Manual,5,589,"Android Auto, Cámara trasera, Faros LED, Apple CarPlay",Muy bueno,Bilbao,VIN001097,Available
+2025,Kia,Rio,Hatchback,Gris,55782,24170,Híbrido,1.1L TSI,Automático,5,542,"Llantas de aleación, Asientos de cuero, Portón eléctrico, Techo solar",Muy bueno,Valencia,VIN001098,Available
+2020,Kia,Rio,Hatchback,Azul,3490,41982,Híbrido,1.4L Turbo,Automático,5,294,"Techo solar, Faros LED, Detección de punto ciego, Asientos de cuero, Llantas de aleación",Excelente,Valencia,VIN001099,Available
+2025,Tesla,Model 3,Sedan,Negro,49731,77238,Eléctrico,Motor eléctrico,Automático,5,509,"Asientos de cuero, Navegación GPS, Bluetooth",Excelente,Barcelona,VIN001100,Available
+2024,Tesla,Model 3,Sedan,Verde,39903,65588,Eléctrico,Motor eléctrico,Automático,5,336,"Apple CarPlay, Climatizador bizona, Cámara trasera, Navegación GPS, Techo solar",Muy bueno,Bilbao,VIN001101,Available
+2023,Tesla,Model 3,Sedan,Rojo,7265,63756,Eléctrico,Motor eléctrico,Automático,4,603,"Bluetooth, Climatizador bizona, Control de crucero adaptativo, Navegación GPS",Bueno,Valencia,VIN001102,Available
+2024,Tesla,Model Y,SUV,Azul,12275,74540,Eléctrico,Motor eléctrico,Automático,4,548,"Asientos de cuero, Navegación GPS, Control de crucero adaptativo, Llantas de aleación, Apple CarPlay",Excelente,Sevilla,VIN001103,Available
+2022,Tesla,Model Y,SUV,Blanco,48976,32064,Eléctrico,Motor eléctrico,Automático,5,314,"Apple CarPlay, Techo solar, Detección de punto ciego, Climatizador bizona, Asistente de carril",Muy bueno,Barcelona,VIN001104,Available
